@@ -1,0 +1,18 @@
+.chamada__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:whitesmoke;
+    border: 10px solid rgb(245, 245, 245);
+    box-shadow: 5px 5px 5px #0006;
+    font-family: 'Roboto', sans-serif;
+    transition: transform 0.5s linear;
+   
+
+}
+
+.chamada__item:hover {
+    transform: scale(1.1);
+    
+
+}

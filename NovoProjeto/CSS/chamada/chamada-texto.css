@@ -1,0 +1,12 @@
+.chamada__texto {
+    text-align: center;
+    padding: 0 0 2rem 0;
+    font-size: 1.5rem;
+    font-family: 'Permanent Marker', cursive;
+    color:whitesmoke;
+}
+
+.chamada__texto:hover {
+    color: red;
+    text-shadow: 0 1px 1px #9b88109f;
+}

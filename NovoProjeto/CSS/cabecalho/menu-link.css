@@ -1,0 +1,17 @@
+.menu__link {
+    margin-left: 1rem;
+    font-size: 1em;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color:whitesmoke;
+
+}
+
+.menu__link:last-child {
+    margin-right: 5px;
+}
+
+.menu__link:hover {
+    font-weight: bold;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+}

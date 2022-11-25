@@ -1,0 +1,19 @@
+.estoque__button {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: hsl(209, 33%, 29%);
+    color: whitesmoke;
+    cursor: pointer;
+    transition: transform 3s linear;
+}
+
+.estoque__button:hover {
+    font-weight: bold;
+    background-color: rgb(100, 9, 9);
+    transform: scale(1.1);
+}
+
+.estoque__button:active {
+    color: #eed8469f;
+}

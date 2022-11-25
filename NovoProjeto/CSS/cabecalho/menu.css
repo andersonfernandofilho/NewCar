@@ -1,0 +1,8 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu:last-child {
+    padding-right: 1rem;
+}

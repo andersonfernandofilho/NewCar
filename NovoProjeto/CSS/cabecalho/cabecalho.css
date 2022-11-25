@@ -1,0 +1,15 @@
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsl(209, 33%, 29%);
+}
+
+main {
+    background-color: hsl(209, 33%, 29%);
+}
+
+footer {
+    background-color: hsl(209, 33%, 29%);
+}
